@@ -1,1 +1,1 @@
-Basit bir etkinlik bileti satın alma sitesi
+Basit bir etkinlik bileti satın alma sitesi 
